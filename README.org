@@ -1,0 +1,13 @@
+* shogi-mode
+
+  [[https://raw.github.com/akicho8/shogi-mode/master/images/ss.png]]
+
+** これは何？
+
+   - kif, ki2, sfen, usi, csa の拡張子のファイルの構文に色をつけます
+
+** 使い方
+
+#+BEGIN_SRC elisp
+(require 'shogi-mode)
+#+END_SRC
