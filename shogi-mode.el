@@ -1,4 +1,4 @@
-;;; shogi-mode.el --- メモを集中管理する
+;;; shogi-mode.el --- 棋譜関連ファイルの構文に色付け
 
 ;; Copyright (C) 2018 Free Software Foundation, Inc.
 
