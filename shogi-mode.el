@@ -3,6 +3,7 @@
 ;; Copyright (C) 2018 Free Software Foundation, Inc.
 
 ;; Author: Akira Ikeda <pinpon.ikeda@gmail.com>
+;;         gemmaro <gemmaro.dev@gmail.com>
 ;; Keywords: shogi format color kif ki2 sfen usi csa
 
 ;; This file is free software; you can redistribute it and/or modify
@@ -26,6 +27,7 @@
 
 ;;; Code:
 
+;;;###autoload
 (defun shogi-mode ()
   (interactive)
   (kill-all-local-variables)
